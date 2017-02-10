@@ -1,0 +1,11 @@
+C:\Users\YEISONSTIVENCALLELON\Documents\CalleYeison\Practica1\appPractica1\appPractica1\bin\Debug\appPractica1.exe.config
+C:\Users\YEISONSTIVENCALLELON\Documents\CalleYeison\Practica1\appPractica1\appPractica1\bin\Debug\appPractica1.exe
+C:\Users\YEISONSTIVENCALLELON\Documents\CalleYeison\Practica1\appPractica1\appPractica1\bin\Debug\appPractica1.pdb
+C:\Users\YEISONSTIVENCALLELON\Documents\CalleYeison\Practica1\appPractica1\appPractica1\obj\Debug\appPractica1.csprojResolveAssemblyReference.cache
+C:\Users\YEISONSTIVENCALLELON\Documents\CalleYeison\Practica1\appPractica1\appPractica1\obj\Debug\appPractica1.frmAlmacen.resources
+C:\Users\YEISONSTIVENCALLELON\Documents\CalleYeison\Practica1\appPractica1\appPractica1\obj\Debug\appPractica1.Properties.Resources.resources
+C:\Users\YEISONSTIVENCALLELON\Documents\CalleYeison\Practica1\appPractica1\appPractica1\obj\Debug\appPractica1.csproj.GenerateResource.Cache
+C:\Users\YEISONSTIVENCALLELON\Documents\CalleYeison\Practica1\appPractica1\appPractica1\obj\Debug\appPractica1.exe
+C:\Users\YEISONSTIVENCALLELON\Documents\CalleYeison\Practica1\appPractica1\appPractica1\obj\Debug\appPractica1.pdb
+C:\Users\YEISONSTIVENCALLELON\Documents\CalleYeison\Practica1\appPractica1\appPractica1\bin\Debug\LibOrquideas.dll
+C:\Users\YEISONSTIVENCALLELON\Documents\CalleYeison\Practica1\appPractica1\appPractica1\bin\Debug\LibOrquideas.pdb

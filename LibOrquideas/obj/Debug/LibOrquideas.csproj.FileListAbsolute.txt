@@ -1,0 +1,5 @@
+C:\Users\YEISONSTIVENCALLELON\Documents\CalleYeison\Practica1\LibOrquideas\bin\Debug\LibOrquideas.dll
+C:\Users\YEISONSTIVENCALLELON\Documents\CalleYeison\Practica1\LibOrquideas\bin\Debug\LibOrquideas.pdb
+C:\Users\YEISONSTIVENCALLELON\Documents\CalleYeison\Practica1\LibOrquideas\obj\Debug\LibOrquideas.csprojResolveAssemblyReference.cache
+C:\Users\YEISONSTIVENCALLELON\Documents\CalleYeison\Practica1\LibOrquideas\obj\Debug\LibOrquideas.dll
+C:\Users\YEISONSTIVENCALLELON\Documents\CalleYeison\Practica1\LibOrquideas\obj\Debug\LibOrquideas.pdb
